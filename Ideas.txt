@@ -3,3 +3,5 @@ En skills palanca animada o boton animado.
 Pantalla al lado del personaje como forma de menú
 Ver lo del post processing
 Poner Fog
+Poner mi foto y poner un texto que
+diga VirtualSkin o algo así
